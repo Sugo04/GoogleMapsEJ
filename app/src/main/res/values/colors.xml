@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Colores de fondo y degradado  -->
+    <color name="background_gradient_start">#081b29</color>
+    <color name="background_gradient_end">#081a08</color>
+    <color name="header_background">#333333</color>
+    <color name="card_background">#FFFFFF</color>
+    <!--  Colores de texto  -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#555555</color>
+    <color name="text_highlight">#E57373</color>
+    <!--  Colores para botones y estados  -->
+    <color name="button_background">#171717</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_hover_modify">#00a6bc</color>
+    <color name="button_hover_delete">#8D2E2E</color>
+    <color name="button_hover_add">#014B0A</color>
+    <color name="button_pressed">#404040</color>
+    <!--  Colores para inputs y bordes  -->
+    <color name="input_border">#C8C8C8</color>
+    <color name="input_border_focused">#9696C8</color>
+    <color name="input_background">#F5F5F5</color>
+    <color name="input_hint">#80FFFFFF</color>
+    <color name="input_text">#FFFFFF</color>
+    <!--  Colores para sombras y elevación  -->
+    <color name="shadow_color">#4000a6bc</color>
+    <!--  Colores para barra de progreso  -->
+    <color name="progress_tint">#E57373</color>
+</resources>
